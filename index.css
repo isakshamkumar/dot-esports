@@ -17,6 +17,9 @@
     padding: 1rem 8rem !important;
     z-index: 10000;
 }
+body > div > div > h2{
+    font-weight: 400 !important;
+}
 
 .navbar .navbar-brand {
     font-size: 1.4rem;
@@ -80,6 +83,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
 
 .mid .hero {
     position: relative;
@@ -247,6 +251,9 @@ hr {
     cursor: pointer;
     margin-left: 1.5rem !important;
 
+}
+#ty:hover{
+    box-shadow: 18px 0px 87px 0px rgba(239, 255, 173, 0.922);
 }
 
 body>section.service.py-5>div>div.heading.text-center.pt-5>h2 {
